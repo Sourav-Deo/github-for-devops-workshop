@@ -1,0 +1,7 @@
+246  git commit -m "adding test file"
+247  git status
+248  git status
+249  git status
+250  git add .
+251  git commit -m "temp file"
+252  git status
