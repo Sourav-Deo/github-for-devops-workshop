@@ -5,3 +5,8 @@
 250  git add .
 251  git commit -m "temp file"
 252  git status
+git remote add origin https://github.com/Sourav-Deo/github-for-devops-workshop.git
+  268  git remote -v
+  270  git remote set-url origin https://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@github.com//Sourav-Deo/github-for-devops-workshop.git
+  271  git remote -v
+  272  git push origin master
